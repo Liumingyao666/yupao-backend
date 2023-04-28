@@ -1,9 +1,9 @@
 spring:
   application:
-    name: user-center
+    name: yupao-backend
       # DataSource Config
   datasource:
-        driver-class-name: com.mysql.jdbc.Driver
+        driver-class-name: com.mysql.cj.jdbc.Driver
         url: jdbc:mysql://localhost:3306/lmy
         username: root
         password: 010908lmy

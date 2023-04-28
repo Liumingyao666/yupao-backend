@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.liumingyao</groupId>
-    <artifactId>user-center</artifactId>
+    <artifactId>yupao-backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>user-center</name>
-    <description>用户中心</description>
+    <name>yupao-backend</name>
+    <description>伙伴匹配</description>
     <properties>
         <java.version>11</java.version>
     </properties>
